@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ilosc</string>
+    <string name="dataCar1">Elegante X8 is a top-tier luxury sedan featuring a sleek metallic silver exterior. Under the hood, it boasts a 4.0L V8 twin-turbo engine, producing an impressive 520 horsepower. This model offers a smooth and powerful driving experience, delivering 18 MPG in the city and 25 MPG on the highway. </string>
+    <string name="dataCar2">The Falcon GT-R is a high-performance sports coupe designed for speed enthusiasts. With a supercharged 6.2L V8 engine cranking out 720 horsepower, it’s built for thrill-seekers. It accelerates from 0 to 60 MPH in just 3.2 seconds, with a top-tier carbon-fiber body for weight reduction. Fuel efficiency isn’t its strong suit, offering 14 MPG in the city and 22 MPG on the highway, but it makes up for it with unmatched power and handling.</string>
+    <string name="dataCar3">For eco-conscious buyers, the Voltora EV-X is a futuristic electric SUV that combines cutting-edge technology with a striking design. Its dual-motor electric system delivers the equivalent of 450 horsepower, and it boasts a range of 300 miles on a single charge. The fast-charging capability allows it to reach 80% battery in just 30 minutes, making long trips a breeze</string>
+</resources>
